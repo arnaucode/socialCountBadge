@@ -1,0 +1,17 @@
+{
+  "name": "socialCountBadge",
+  "main": "socialCountBadge.js",
+  "authors": [
+    "arnaucode <arnaucode@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "https://arnaucode.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
